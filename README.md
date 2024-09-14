@@ -1,6 +1,6 @@
-![art](https://github.com/user-attachments/assets/9acf5ad0-24b5-4ddc-8800-960f69520d97)
-
 # Art Gallery Management System
+
+![aet_2](https://github.com/user-attachments/assets/abbb09e8-7cd2-4858-b233-28f1c4fca0b5)
 
 This project is a web-based application for managing artists, artworks, and exhibitions in an art gallery.
 
