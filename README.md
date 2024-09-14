@@ -1,3 +1,5 @@
+![art](https://github.com/user-attachments/assets/9acf5ad0-24b5-4ddc-8800-960f69520d97)
+
 # Art Gallery Management System
 
 This project is a web-based application for managing artists, artworks, and exhibitions in an art gallery.
