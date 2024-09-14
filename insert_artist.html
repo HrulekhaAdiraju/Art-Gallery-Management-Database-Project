@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Artist Entry</title>
+</head>
+<body>
+    <h2>Add New Artist</h2>
+    <form action="artistinsert.php" method="POST">
+        <label for="name">Artist Name:</label>
+        <input type="text" id="name" name="name" required><br>
+
+        <label for="birthplace">Birthplace:</label>
+        <input type="text" id="birthplace" name="birthplace"><br>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age"><br>
+
+        <label for="style">Style of Art:</label>
+        <input type="text" id="style" name="style"><br>
+
+        <input type="submit" value="Add Artist">
+    </form>
+</body>
+</html>
